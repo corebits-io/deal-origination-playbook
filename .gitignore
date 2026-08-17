@@ -1,0 +1,36 @@
+# Never commit your origination workspace. It holds target company names, owner
+# contact details, and conversation notes — possibly under NDA, and owner names
+# and work emails are personal data. Keep it outside this repo, or ignored
+# inside it.
+workspace/
+search/
+origination/
+briefs/
+*.local.md
+
+# Your own filled-in working files, if you keep them in here.
+# Anchored to the repo root so the templates/ copies stay tracked.
+/mandate-profile.md
+/coverage-log.md
+/market-map-*.md
+/rubric-*.md
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Data exports
+*.csv
+!templates/*.csv
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
