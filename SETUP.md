@@ -432,10 +432,8 @@ listed below, and they buy you speed, not accuracy.
 
 Because origination and outreach are different disciplines with different
 failure modes, and mixing them tempts you to write to a list you have not
-properly qualified. Get the list right first. When you want the outreach half —
-copy, sequencing, reply handling, pipeline — it is a separate package:
-[corebits-io/deal-origination-system](https://github.com/corebits-io/deal-origination-system),
-and it reads the same `targets.csv`.
+properly qualified. Get the list right first. Outreach is a separate
+discipline, and is deliberately out of scope here.
 
 ### Is my deal data safe?
 

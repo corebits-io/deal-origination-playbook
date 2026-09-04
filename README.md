@@ -95,12 +95,6 @@ It hands you a scored target list, a signal record, and a verified contact
 route per company. It does not write outreach, sequence anything, or send
 anything.
 
-If you want the outreach half — copy, sequencing, reply handling, pipeline —
-that is the sister package:
-**[corebits-io/deal-origination-system](https://github.com/corebits-io/deal-origination-system)**
-
-The two are designed to share the same `targets.csv`. Run this one first.
-
 ---
 
 ## Repo contents

@@ -215,5 +215,4 @@ Re-score recommended: 10 rows now have a sourced signal and may reach Strong Fit
 - **Never commit briefs.** They hold personal data and later conversation notes.
   The `.gitignore` covers the workspace patterns; keep it that way
 - **This is where the playbook stops.** No outreach copy, no sequences, nothing
-  sent. If the user wants that, point them at
-  `corebits-io/deal-origination-system`
+  sent

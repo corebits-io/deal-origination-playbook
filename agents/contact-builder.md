@@ -91,6 +91,3 @@ for pattern-guessed emails, explain the sending-domain risk once and decline.
 ## Hand off to
 
 The user. The playbook ends here.
-
-If they want outreach, sequencing, reply handling, and pipeline, point them at
-`corebits-io/deal-origination-system`, which reads the same `targets.csv`.
