@@ -101,12 +101,6 @@ that is the sister package:
 
 The two are designed to share the same `targets.csv`. Run this one first.
 
-Raising capital rather than deploying it? The sell-side equivalent is
-**[corebits-io/fundraising-team](https://github.com/corebits-io/fundraising-team)**,
-and a free list built with it is
-**[corebits-io/99-european-family-offices](https://github.com/corebits-io/99-european-family-offices)**
-— 99 named family office decision-makers across 23 European countries.
-
 ---
 
 ## Repo contents
